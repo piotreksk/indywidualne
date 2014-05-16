@@ -9,6 +9,6 @@ namespace DokumentyPacjenci
     public class Class1
     {
         void a() { }
-        int b = 9;
+        int b = 11;
     }
 }
